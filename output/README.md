@@ -2,5 +2,5 @@
 
 ### Output folder
 
-The output directory contains analysis output, processed datasets, logs, or other processed things.
+The data used in this project is the original data downloaded from the website https://www.kaggle.com/kouroshalizadeh/history-of-philosophy.
 
